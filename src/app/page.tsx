@@ -20,7 +20,7 @@ export default function getRoute() {
                     <img src="/profile.png" alt="Profile" className="object-cover w-full h-auto rounded-full border-4 border-blue-400 transition-all duration-500 aspect-square group-hover:border-blue-500" />  
                 </div> */}
                 <div className="flex items-center gap-4 w-90 h-90">
-                <img className="mask-[url(/profile.png)] bg-[url(/sas.png)] object-cover w-full h-auto rounded-full border-4 border-blue-400 transition-all duration-500 aspect-square group-hover:border-blue-500" src="url(/profile.png)" />
+                <img className="mask-[] bg-[url(/sas.png)] object-cover w-full h-auto rounded-full border-4 border-blue-400 transition-all duration-500 aspect-square group-hover:border-blue-500" src="" />
                     
                 </div>
             <DotPattern className="flex inset-0 z-[-1] h-screen backdrop-blur-2xl w-full items-center justify-center m-auto bg-gray-300 "/>
